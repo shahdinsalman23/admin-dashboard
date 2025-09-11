@@ -26,3 +26,8 @@ body{
   padding: 20px;
   overflow-y: auto;
 }
+
+/* Scrollbar Styling */
+.content::-webkit-scrollbar {
+  width: 8px;
+}
