@@ -55,3 +55,14 @@ body{
     height: calc(100vh - 60px); /* Adjust based on sidebar height */
   }
 }
+
+/* Additional styles can be added as needed */
+/* This file contains global styles for the application */
+/* It sets up basic layout and styling for the App component */
+/* It also includes responsive design adjustments */
+/* and custom scrollbar styling for better user experience */
+/* The styles ensure a consistent look and feel across the app */
+/* End of App.css */
+/* This file is part of the admin dashboard project */
+/* It is used to style the main application layout */
+
