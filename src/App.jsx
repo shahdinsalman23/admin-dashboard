@@ -1,11 +1,12 @@
 import React from 'react'
+import './App.css'
+import Sidebar from './components/Sidebar'
 
 const App = () => {
   return (
-    <div className="app-container">
-      <h1>Admin Dashboard</h1>
-      <p>Welcome to the admin dashboard!</p>
-    </div>
+    <>
+      <Sidebar/>
+    </>
   )
 }
 
