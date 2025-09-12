@@ -10,3 +10,10 @@ body {
   background-color: #f4f6f8;
   color: #333;
 }
+
+.header {
+  background-color: #1976d2;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
