@@ -55,3 +55,8 @@ body {
   font-size: 1em;
   line-height: 1.6;
 }
+
+a {
+  color: #1976d2;
+  text-decoration: none;
+}
